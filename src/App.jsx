@@ -5,6 +5,7 @@ import './App.css'
 import AddTodo from './components/AddTodo'
 import Todos from './components/Todos'
 
+//learning Redux toolkit from open source
 function App() {
   
   return (
